@@ -1,6 +1,6 @@
 Hello, I’m Bill.
 As a developer student,i have great passion in Android development(Kotlin) Web development(Full Stack) and Data Science.
-Lots of projects going on mosyly on android
+Lots of projects going on mostly on android.
 You can reach me @ mutukubill1@gmail.com
 <!---
 MutukuBill/MutukuBill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
