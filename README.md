@@ -1,5 +1,5 @@
 Hello, I’m Bill.
-As a developer student,i have great passion in Android development(Kotlin) Web development(Full Stack) and Data Science.
+As a developer, I have great passion in Android development(Kotlin) Web development(Full Stack) and Data Science.
 Lots of projects going on mostly on android.
 You can reach me @ mutukubill1@gmail.com
 <!---
